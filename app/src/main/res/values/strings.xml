@@ -1,0 +1,134 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">City Tour Guide</string>
+
+    <!--Default text to show when the content is not found-->
+    <string name="content_not_found">Content Not Found</string>
+
+    <!-- Category name for Home page [CHAR LIMIT=20] -->
+    <string name="category_home">Home</string>
+
+    <!-- Category name for Archaeological page [CHAR LIMIT=20] -->
+    <string name="category_archaeological">Archaeological</string>
+
+    <!-- Category name for Spiritual page [CHAR LIMIT=20] -->
+    <string name="category_spiritual">Spiritual</string>
+
+    <!-- Category name for Educational page [CHAR LIMIT=20] -->
+    <string name="category_educational">Educational</string>
+
+    <!-- Category name for Recreational page [CHAR LIMIT=20] -->
+    <string name="category_recreational">Recreational</string>
+
+    <!-- Category name for Shopping page [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shopping</string>
+
+    <!-- Category name for Restaurants page [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+
+    <string name="home_page_title">About Kolkata</string>
+    <string name="home_page_description">Kolkata (formerly Calcutta) is the capital of India\'s
+        West Bengal state. Founded as an East India Company trading post, it was India\'s capital
+        under the British Raj from 1773–1911. Today it’s known for its grand colonial architecture,
+        art galleries and cultural festivals. It’s also home to Mother House, headquarters of the
+        Missionaries of Charity, founded by Mother Teresa, whose tomb is on site. \n \n
+            Area: 205 km² \n
+            Elevation: 9.14 m \n
+            Weather: Mostly Humid \n
+            Timezone: GMT+5:30 \n
+            Population: 4.497 million (2011) \n
+            Language: Bengali (primary), Hindi, English \n
+    </string>
+
+    <string name="victoria_memorial_title">Victoria Memorial</string>
+    <string name="victoria_memorial_description">The Victoria Memorial is a large marble building, which is considered to be the pride of Kolkata. Built between 1906 and 1921, it is dedicated to the memory of Queen Victoria. Now, it is a museum and a popular tourist spot under the Ministry of Culture.</string>
+
+    <string name="fort_william_title">Fort William</string>
+    <string name="fort_william_description">Fort William is a fort built in Kolkata on the eastern banks of the River Hooghly, the major distributary of Ganges, during the early years of the Bengal Presidency in the British India. It was named after King William III of England and Ireland and King William II of Scotland.</string>
+
+    <string name="shobhabajar_rajbari_title">Shobhabajar Rajbari</string>
+    <string name="shobhabajar_rajbari_description">The Shobhabazar Rajbari is one of the grandest Bengali style houses ever built. It was built by the Royal family of Shobhabazar in Kolkata, and the grandeur is only palpable to the eye.</string>
+
+    <string name="belur_math_title">Belur Math</string>
+    <string name="belur_math_description">Belur Mutt is the headquarters of the Ramakrishna Math and Mission, founded by Swami Vivekananda, the chief disciple of Ramakrishna Paramahamsa. It is situated on the west bank of Hooghly River, Belur, West Bengal, India. It is one of the noteworthy establishments in Kolkata.</string>
+
+    <string name="mother_house_title">Mother House</string>
+    <string name="mother_house_description">This is the place where the Tomb of Mother Teresa is present. It is maintained by her missionaries and followers who have continued to promote her legacy.</string>
+
+    <string name="birla_mandir_title">Birla Mandir</string>
+    <string name="birla_mandir_description">The glowing structure that adorns the streets of Kolkata is the popular Hindu Temple, Birla Temple. Dedicated to Lord Krishna and Radha, the temple is perfect specimen of craftsmanship.</string>
+
+    <string name="kalighat_temple_title">Kalighat Temple</string>
+    <string name="kalighat_temple_description">Kalighat Temple, one of the 51 Shakti Sthals of India, is one of the most visited Kali temples in India. The spot is where the toes of Sati\'s right foot fell during Shiva\'s Rudra Taandav naach.</string>
+
+    <string name="south_park_street_cemetary_title">South Park Street Cemetery</string>
+    <string name="south_park_street_cemetary_description">South Park Street Cemetery is an 18th-century non-church cemetery, one of the earliest in the world. It is now a heritage site in Kolkata and maintained by the Archaeological Survey of India. Most of the tombs in the South Park Street Cemetery are aesthetically beautiful and very attractive. It, thus, has a unique charm that draws tourists in large numbers. Some tombs have a mysterious while some have a soothing vibe. One such tomb is grave number 363 which is the oldest and belongs to a woman who never wished to have her name revealed. The tomb architecture is mostly a mix of Gothic and Indo-Saracenic with miniature replicas on stone.</string>
+
+    <string name="birla_planetarium_title">Birla Planetarium</string>
+    <string name="birla_planetarium_description">Kolkata\'s Birla Planetarium is a magnificent edifice set up by Pandit Jawaharlal Nehru on 2nd July 1963. This one in Kolkata is one of the three planetariums present in India and is hailed as the largest of its kind in the world. Also known as Taramandal, the Birla Planetarium regularly hold many programs are in various languages including Hindi, English, Bengali, and other regional languages. The planetarium houses numerous innovations and creativity, giving out knowledge to its fellow visitors.</string>
+
+    <string name="indian_museum_title">Indian Museum</string>
+    <string name="indian_museum_description">The Indian Museum is one of the oldest museums of the world boasting some of the most exquisite collections of ornaments, fossils, skeletons, antiques, armours, mummies and stunning Mughal paintings.</string>
+
+    <string name="science_city_title">Science city</string>
+    <string name="science_city_description">One of its kinds in India, the Science city was inaugurated on 1st July 1997. It is a major attraction for the residents of Kolkata as well as for the people visiting Kolkata. It is one of the finest and the largest science museums in the world and provides a fun way of learning science.</string>
+
+    <string name="jorasanko_thakur_bari_title">Jorasanko Thakur Bari</string>
+    <string name="jorasanko_thakur_bari_description">Currently located on the Rabindra Bharati University campus in Jorasank, Jorasanko Thakur Bari is the house in which the first non-European Nobel laureate and poet, Rabindranath Tagore was born.</string>
+
+    <string name="botanical_garden_title">Botanical Gardens</string>
+    <string name="botanical_garden_description">The Botanical Gardens of Calcutta were founded by Robert Kyd in 1787. Protected by the Botanical Survey of India, it stretches over 109 hectares. A Banyan tree in the garden, of more than 330 m circumference, known as The Great Banyan, is the largest tree in the world.</string>
+
+    <string name="howrah_bridge_title">Howrah Bridge</string>
+    <string name="howrah_bridge_description">Located over the Hooghly River in West Bengal, Howrah Bridge or the Rabindra Setu is the main connection between Howrah and Kolkata. It is a cantilever bridge and is regarded as one of the busiest ones among them.</string>
+
+    <string name="eden_gardens_title">Eden Gardens</string>
+    <string name="eden_gardens_description">Popular as the largest cricket stadium in the India and the second largest in the world, the Eden Gardens can seat 66,000 spectators. It is set amidst an adjoining garden where Eden- related to the one-time Governor of Auckland and her sister would stroll during the evenings.</string>
+
+    <string name="alipore_zoo_title">Alipore Zoo</string>
+    <string name="alipore_zoo_description">The Alipore Zoo, also known as the Calcutta Zoo or the Zoological Garden of Alipore, is the oldest zoological park to have been established in India and is a major tourist attraction in Kolkata.</string>
+
+    <string name="ecopark_title">Eco Tourism Park</string>
+    <string name="ecopark_description">Eco Tourism Park is an expansive urban park designed to promote eco-tourism in the city. It is the biggest urban park in India and occupies over 475 acres of land. The beauty of the location increases ten folds because of a water body that surrounds the park and forms an island in the middle.</string>
+
+    <string name="princep_ghat_title">Prinsep Ghat</string>
+    <string name="princep_ghat_description">Prinsep Ghat, located on the banks of River Hooghly, is a majestic structure famous for its Greek/ Gothic inlays. With the magnificent Howrah Bridge in the background, watching the sunrise or sunset and taking a long walk in the cool air on the banks of the river are some of the preferred recreational activity.</string>
+
+    <string name="chowringhee_title">Chowringhee</string>
+    <string name="chowringhee_description">Chowringhee, officially known as Jawaharlal Nehru Road, is a happening hub and frequently visited by locals for recreational activities and shopping. It is one of the few localities in the city with top end boutiques, hotels, malls, shops and restaurants. The region also has several heritage buildings nearby that tourists can explore. These buildings were built during the British era and are famous for their architecture and historical importance that photographers shouldn\'t miss at all.</string>
+
+    <string name="park_street_title">Park Street</string>
+    <string name="park_street_description">Park Street is a major access route in Kolkata, also officially known as Mother Teresa Sarani. The street begins at Chowringhee Road or JL Nehru road and stretches till Park Circus crossing. It is said that Park Street never sleeps and is always bustling with activities. Being a major hangout spot in the city, it has many pubs and restaurants. Several important routes intersect or originate from Park Street. The street has been a crowd puller since the reign of the British Kingdom and undergone modifications that make it a fashionable hangout spot.</string>
+
+    <string name="new_market_title">New Market Area</string>
+    <string name="new_market_description">Despite the appearance of new air-conditioned, American-style, shopping malls all over Kolkata, New Market, which has survived two devastating fires and regular flooding, remains at the core of the shopping experience in the city. Over 2000 stalls under its roof sell everything from clothing to wheeled luggage to electronics to a special cheese found nowhere else. Under its apparent chaos lie extraordinary finds as well as remarkable bargains. Newmarket is a place to shop for garments and accessories, flowers, different food items including raw meat, fish, vegetables and fruits and even spices. There are crockeries and utensil stores. It also has a florist section dealing with exotic flowers. It is situated on Lindsay Street, Kolkata (Calcutta), just off Chowringhee Road, the market is open 10 a.m. until 8 p.m. Monday to Friday, until 7 p.m. on Saturdays, and closed on Sundays.</string>
+
+    <string name="coffee_house_title">College Street Coffee House</string>
+    <string name="coffee_house_description">\n Cuisines : Cafe, Chinese, Fast Food \n \n
+    College Street Coffee House is a cafe located opposite the Presidency College in College Street, the most famous of Indian Coffee House branches in Kolkata. It has been for a long time a regular hang out and a renowned meeting place (adda) for intellectuals and students (and ex-students) of the Presidency College, University of Calcutta, and other institutions in College Street. It has played an important part in Calcutta\'s (Kolkata) cultural history and known as the hub of intellectual debates.
+    </string>
+
+    <string name="six_ballygunge_place_title">6 Ballygunge Place</string>
+    <string name="six_ballygunge_place_description">\n Cuisines : Bengali \n \n
+    6 Ballygunge Place is a Bengali restaurant chain established in 2003. Its main branch is located at Ballygunge, Kolkata, India at a British Raj mansion. It has other branches in Bangalore and Guwahati. Following a closure for a short period after the Puja celebrations in 2015, the restaurant has undergone substantial renovation with two additional floors, and it was reopened in December 2015. Decorated with haath-pakha (Pankha are hand fans of the Indian subcontinent) décor in the entire ground floor it has the elegance of a Durga puja pandal (a decorated hall during the Durga Puja celebrations) or a setting for a period film.
+    </string>
+
+    <string name="peter_cat_title">Peter Cat</string>
+    <string name="peter_cat_description">\n Cuisines : Continental, North Indian \n \n
+    Along with the nearby Mocambo restaurant, this is one of the city\'s oldest establishments, with an atmosphere that harkens back to its early days in the 1960s. The chelo kebab here—a dish with biriani-style rice (flavored with saffron or turmeric), egg, butter, two mutton kebabs, and one chicken kebab—is one of the most popular dishes in Kolkata. The dining room is intimate, with white stucco walls, Tiffany-style lamps, and soft lighting; the menu is a mixture of good Continental and Indian dishes, especially tandoori fare.
+    </string>
+
+    <string name="arsalan_title">Arsalan</string>
+    <string name="arsalan_description">\n Cuisines : North Indian, Mughlai, Rolls \n \n
+    Apart from being great builders, the Mughals were also known as great food connoisseurs. Almost every Mughal emperor has passed on his personal recipe as he moved along the passage of time, which is known as Mughlai food. This is why perhaps the influence of Mughals is most felt in their food. To get the real taste of authentic Mughlai cuisine one need to visit ARSALAN a trusted name in Mughlai dishes at the heart of the city of joy. ARSALAN being incorporated on 6th of October 2002, is serving the food loving people of Kolkata with a variety of Mughlai dishes starting from a range of Tandoor’s, Kabab’s, Biryani’s, Nan’s, etc. to choose from at their Mariana Garden Court, 191, Park Street (Park Circus, 7 Point Crossing) Kolkata 700017.
+    </string>
+
+    <string name="barbeque_nation_title">Barbeque Nation</string>
+    <string name="barbeque_nation_description">\n Cuisines : North Indian, Chinese, Kebab, BBQ, Grill \n \n
+    Barbeque Nation is an Indian restaurant chain owned by Barbeque Nation Hospitality Ltd. It is known for an indoor barbecue concept venue offering a \'Do-It-Yourself\' grilling experience at every table. Its buffet lunch or dinner is famous all across the city.
+    </string>
+    <string name="place_image">place_image</string>
+
+
+</resources>
