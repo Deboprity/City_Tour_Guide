@@ -6,26 +6,26 @@
     android:layout_height="match_parent"
     android:orientation="horizontal"
     android:padding="16dp"
-    android:minHeight="@dimen/list_item_height">
+    android:minHeight="@dimen/list_item_min_height"
+    android:maxHeight="@dimen/list_item_max_height">
 
     <TextView
-            android:id="@+id/place_name_text_view"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="2"
-            tools:text="hello"
-            android:textStyle="bold"
-            android:textAppearance="?android:textAppearanceMedium"
-            android:textColor="@android:color/white"/>
+        android:id="@+id/place_name_text_view"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        tools:text="hello"
+        android:textStyle="bold"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@android:color/white"/>
 
-    <TextView
-        android:id="@+id/place_see_more_link"
+    <ImageView
+        android:id="@+id/place_image"
+        android:contentDescription="@string/img_content_desc"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1"
-        tools:text="See More"
-        android:layout_gravity="center"
-        android:textAppearance="?android:textAppearanceSmall"
-        android:textColor="#FFF3E0"/>
+        android:layout_gravity="fill"
+        tools:src="@drawable/howrah_bridge"/>
 
 </LinearLayout>

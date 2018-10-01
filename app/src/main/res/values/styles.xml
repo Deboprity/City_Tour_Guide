@@ -33,6 +33,7 @@
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">250dp</item>
         <item name="android:layout_gravity">fill</item>
+        <item name="android:paddingTop">15dp</item>
     </style>
 
     <style name="ActivityDesc">
@@ -40,6 +41,7 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textColor">@color/tab_background</item>
         <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:paddingTop">15dp</item>
     </style>
 
 </resources>

@@ -22,9 +22,9 @@ public class PlaceActivity extends AppCompatActivity {
         setContentView(R.layout.activity_place);
 
         Intent intent= getIntent();
-        pageTitleResID = intent.getIntExtra("pageTitleResID",R.string.content_not_found);
-        pageImageResID = intent.getIntExtra("pageImageResID",R.drawable.home_page_image);
-        pageDescResID = intent.getIntExtra("pageDescResID",R.string.content_not_found);
+        pageTitleResID = intent.getIntExtra(getString(R.string.page_title_res_ID),R.string.content_not_found);
+        pageImageResID = intent.getIntExtra(getString(R.string.page_image_res_ID),R.drawable.home_page_image);
+        pageDescResID = intent.getIntExtra(getString(R.string.page_desc_res_ID),R.string.content_not_found);
 
         TextView pageTitle = findViewById(R.id.home_page_title);
         ImageView pageImage = findViewById(R.id.home_page_image);

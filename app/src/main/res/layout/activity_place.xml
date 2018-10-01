@@ -2,8 +2,9 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@color/generic_background_color">
-    <RelativeLayout
+    <android.support.constraint.ConstraintLayout
         android:id="@+id/activity_category"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -12,18 +13,20 @@
 
         <TextView
             android:id="@+id/home_page_title"
+
             style="@style/ActivityHeader"/>
 
         <ImageView
             android:id="@+id/home_page_image"
-            android:layout_below="@+id/home_page_title"
+            app:layout_constraintTop_toBottomOf="@+id/home_page_title"
             style="@style/ActivityImage"
             android:contentDescription="@string/place_image" />
 
         <TextView
             android:id="@+id/home_page_description"
+            app:layout_constraintTop_toBottomOf="@+id/home_page_image"
             style="@style/ActivityDesc"
             android:layout_below="@+id/home_page_image"/>
 
-    </RelativeLayout>
+    </android.support.constraint.ConstraintLayout>
 </ScrollView>

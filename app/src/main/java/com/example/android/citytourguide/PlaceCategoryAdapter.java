@@ -10,6 +10,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -43,10 +44,11 @@ public class PlaceCategoryAdapter extends ArrayAdapter<PlaceCategory>{
         currentPlaceCategory = getItem(position);
 
         TextView placeTextView = listView.findViewById(R.id.place_name_text_view);
-
+        ImageView placeImgView = listView.findViewById(R.id.place_image);
 
         if (currentPlaceCategory != null) {
             placeTextView.setText(currentPlaceCategory.getPlaceNameResID());
+            placeImgView.setImageResource(currentPlaceCategory.getPageImageResID());
         }
 
         int color = ContextCompat.getColor(getContext(),bgcolorResId);

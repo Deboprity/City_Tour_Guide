@@ -129,6 +129,9 @@
     Barbeque Nation is an Indian restaurant chain owned by Barbeque Nation Hospitality Ltd. It is known for an indoor barbecue concept venue offering a \'Do-It-Yourself\' grilling experience at every table. Its buffet lunch or dinner is famous all across the city.
     </string>
     <string name="place_image">place_image</string>
-
+    <string name="page_title_res_ID">pageTitleResID</string>
+    <string name="page_image_res_ID">pageImageResID</string>
+    <string name="page_desc_res_ID">pageDescResID</string>
+    <string name="img_content_desc">image description</string>
 
 </resources>
